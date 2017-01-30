@@ -1,9 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 
-username = 'yyyyyy'
-password = 'xxxxxx'
-
 base_url = 'https://fmovies.se/search?keyword='
 next_url = 'https://fmovies.se'
 
